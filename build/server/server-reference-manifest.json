@@ -1,0 +1,147 @@
+{
+  "node": {
+    "7f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3": {
+      "workers": {
+        "app/(main)/(auth)/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/_not-found/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/users/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/(auth)/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/page": "action-browser",
+        "app/(main)/user/page": "action-browser",
+        "app/(main)/user/dashboard/page": "action-browser",
+        "app/_not-found/page": "action-browser",
+        "app/(main)/user/users/page": "action-browser"
+      }
+    },
+    "7f17399de424265604c4d39dc3f56498265dcccee0": {
+      "workers": {
+        "app/(main)/user/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/user/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/users/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/user/page": "rsc",
+        "app/(main)/user/dashboard/page": "action-browser",
+        "app/(main)/user/users/page": "action-browser"
+      }
+    },
+    "7f354035bde9689fd2257c1eca2f22c333dd45932d": {
+      "workers": {
+        "app/(main)/user/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/user/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/users/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/user/page": "rsc",
+        "app/(main)/user/dashboard/page": "action-browser",
+        "app/(main)/user/users/page": "action-browser"
+      }
+    },
+    "7f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5": {
+      "workers": {
+        "app/(main)/user/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/user/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/users/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/user/page": "rsc",
+        "app/(main)/user/dashboard/page": "action-browser",
+        "app/(main)/user/users/page": "action-browser"
+      }
+    },
+    "7faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737": {
+      "workers": {
+        "app/(main)/user/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/user/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/users/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/user/page": "rsc",
+        "app/(main)/user/dashboard/page": "action-browser",
+        "app/(main)/user/users/page": "action-browser"
+      }
+    },
+    "7fb24a45b6368485ea7914896c5d22be5aa9825ac7": {
+      "workers": {
+        "app/(main)/user/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/user/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/user/users/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f2146b1ab4e2d03f836afb2d3731cfb16f0a737d3%22%2C%22invalidateCacheAction%22%5D%5D%5D%2C%5B%22%2Fhome%2Fbhanwar-singh-rathore%2FDesktop%2Ffastly%2Fsrc%2Flib%2Fqueries.ts%22%2C%5B%5B%227f17399de424265604c4d39dc3f56498265dcccee0%22%2C%22CreateUser%22%5D%2C%5B%227f354035bde9689fd2257c1eca2f22c333dd45932d%22%2C%22getAllUser%22%5D%2C%5B%227f513dbbac2eae9196cc91d852fbb7f1aa4734ecd5%22%2C%22getAuthUserDetails%22%5D%2C%5B%227faa2a0eca8e3e0ebe18542f468b2a5acd38ac7737%22%2C%22getCurrentAdmin%22%5D%2C%5B%227fb24a45b6368485ea7914896c5d22be5aa9825ac7%22%2C%22getCurrenUser%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/user/page": "rsc",
+        "app/(main)/user/dashboard/page": "action-browser",
+        "app/(main)/user/users/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "yqYdHloopxKKqC9H6X+DKY323wg9vUCC7xb+4L7o7qA="
+}
